@@ -48,9 +48,9 @@
 
 ### Titre des nouvelles User Stories  
 > * En tant que colocataire, afin d’accéder aux services, je me crée un compte
-* En tant que colocataire, afin de gérer ma colocation j’enregistre ma colocation.
-* En tant que colocataire, afin de co-gérer ma colocation, j’invite mes colocataires.
-* En tant que celui qui paye, afin de me faire rembourser, j’entre ma dépense sur l’outil
+> * En tant que colocataire, afin de gérer ma colocation j’enregistre ma colocation.
+> * En tant que colocataire, afin de co-gérer ma colocation, j’invite mes colocataires.
+> * En tant que celui qui paye, afin de me faire rembourser, j’entre ma dépense sur l’outil
 
 
 ## Confiance
