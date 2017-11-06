@@ -11,16 +11,16 @@
 
 ## Bilan de l'itération précédente  
 ### Évènements
->Le temps d'apprentissage de Vue.js a eu un léger impact sur le respect de nos délais.
+> Le temps d'apprentissage de Vue.js a eu un léger impact sur le respect de nos délais.
 
 ### Taux de complétion de l'itération  
 
->5 terminées / 5 prévues = 100%
+> 5 terminées / 5 prévues = 100%
 
 ### Liste des User Stories terminées
 
 > * En tant que colocataire, pour avoir des aperçus, je veux diverses statistiques sur les dépenses (alimentaire, loisirs, etc) (variabilisé)
-* En tant que colocataire, afin de me tenir au courant, je visionne l’état des dépenses (variabilisé)
+> * En tant que colocataire, afin de me tenir au courant, je visionne l’état des dépenses (variabilisé)
 
 ## Rétrospective de l'itération précédente
 
@@ -31,12 +31,12 @@
 ### Actions prises pour la prochaine itération
 
 > * Mieux s'entre-aider au sujet des difficultés techniques.
-* Réaliser plus de tests.
+> * Réaliser plus de tests.
 
 ### Axes d'améliorations
 > * PO : tests plus précis
-* SM : veiller à ce que chacun soit au point sur les technologies
-* Dev : être plus efficace sur l'apprentissage des technologies
+> * SM : veiller à ce que chacun soit au point sur les technologies
+> * Dev : être plus efficace sur l'apprentissage des technologies
 
 ## Prévisions de l'itération suivante  
 ### Évènements prévus  

@@ -20,7 +20,7 @@
 
 ### Liste des User Stories terminées
 > * En tant que colocataire, afin de me tenir au courant, je visionne l’état des dépenses.
-* En tant que colocataire, pour avoir des aperçus, je veux diverses statistiques sur les dépenses (alimentaire, loisirs, etc).
+> * En tant que colocataire, pour avoir des aperçus, je veux diverses statistiques sur les dépenses (alimentaire, loisirs, etc).
 
 
 ## Rétrospective de l'itération précédente
@@ -40,11 +40,11 @@
 
 ### Titre des User Stories reportées
 > * En tant que colocataire, afin de me tenir au courant, je visionne l’état des dépenses. (version dynamique)
-*  En tant que colocataire, pour avoir des aperçus, je veux diverses statistiques sur les dépenses (alimentaire, loisirs, etc). (version dynamique)
+> *  En tant que colocataire, pour avoir des aperçus, je veux diverses statistiques sur les dépenses (alimentaire, loisirs, etc). (version dynamique)
 
 ### Titre des nouvelles User Stories
 > * Modal de remboursement. Possibilité d'ajouter une preuve de paiement.
-*  Variabiliser les données auparavant pour les graphes - tableaux.
+> *  Variabiliser les données auparavant pour les graphes - tableaux.
 
 ## Confiance
 ### Taux de confiance de l'équipe dans l'itération
