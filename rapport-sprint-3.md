@@ -47,8 +47,8 @@
 
 ### Titre des User Stories reportées  
 
-> En tant que celui qui paye, afin de me faire rembourser, j’entre ma dépense sur l’outil
-> En tant que colocataire, afin de co-gérer ma colocation, j’invite mes colocataires.
+> * En tant que celui qui paye, afin de me faire rembourser, j’entre ma dépense sur l’outil
+> * En tant que colocataire, afin de co-gérer ma colocation, j’invite mes colocataires.
 
 ### Titre des nouvelles User Stories  
 
