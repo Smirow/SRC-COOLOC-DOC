@@ -36,9 +36,9 @@
 
 ### Axes d'améliorations 
 
-> PO : Retour sur tests plus précis
-> SM : Contenir l'energie des devs
-> Dev : Continuer sur les efforts dans l'apprentissage des Technologies
+> * PO : Retour sur tests plus précis
+> * SM : Contenir l'energie des devs
+> * Dev : Continuer sur les efforts dans l'apprentissage des Technologies
 
 ## Prévisions de l'itération suivante  
 ### Évènements prévus  
