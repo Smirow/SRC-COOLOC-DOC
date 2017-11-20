@@ -7,12 +7,12 @@
 | -------------           |-------------             |
 | **Product Owner**       | *Magued*                 |
 | **Scrum Master**        | *Mohammed*               |
-| **Devs**		  | *Remy, Theophile, Pierre, Célestin |
+| **Devs**		  | *Rémy, Théophile, Pierre, Célestin* |
 
 ## Bilan de l'itération précédente  
 ### Évènements 
 
-> Encore une potentielle nouvelle technologie à appréhender pour réaliser le back-end (LoopBack envisagé)
+> Encore une potentielle nouvelle technologie à appréhender pour réaliser le back-end
 > Configurer l'architecture de la base de données sous MongoDB
 
 
