@@ -37,7 +37,7 @@
 ### Axes d'améliorations 
 
 > * PO : Retour sur tests plus précis
-> * SM : Contenir l'energie des devs
+> * SM : Amélirorer la ccohésion d'equipe
 > * Dev : Continuer sur les efforts dans l'apprentissage des Technologies
 
 ## Prévisions de l'itération suivante  
