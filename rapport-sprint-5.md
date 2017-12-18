@@ -13,37 +13,37 @@
 ## Bilan de l'itération précédente  
 ### Évènements 
 *Quels sont les évènements qui ont marqué l'itération précédente? Répertoriez ici les évènements qui ont eu un impact sur ce qui était prévu à l'itération précédente.*
-> Plusieurs projets scolaires à rendre pour certains membres de l'équipe
-
+> Plusieurs projets scolaires à rendre pour certains membres de l'équipe (charge de travail elevé)
 
 ### Taux de complétion de l'itération  
 *Quel est le nombre d'éléments terminés par rapport au nombre total d'éléments prévu pour l'itération?*
-> * 3 terminés / 3 prévues = 100%*
+> * 2 terminés / 3 prévues = 66%*
 
 ### Liste des User Stories terminées
 *Quelles sont les User Stories qui ont été validées par le PO à la fin de l'itération ?*
 > En tant que colocataire, afin de me faire rembourser je souhaite pouvoir créer une dépense
-> En tant que colocataire, afin de rembourser ce que je dois, je vois sur le tableau de bord la balance
+> En tant que colocataire, afin de rembourser ce que je dois, je vois sur le tableau de bord la balance (50%)
 > En tant que colocataire je souhaite pouvoir rembourser mes colocataires avec le moins d’opération possible
 
 
 ## Rétrospective de l'itération précédente
 > Les principales features ont été développées.
-> Grossir la ligne du 0 sur la balance
+> L'algorithme de minimisation des transactions semble être au point.
 
 ### Bilans des retours et des précédentes actions 
 *Quels sont les retours faits par l'équipe pendant la rétrospective? Quelles sont les actions qui ont apporté quelque chose ou non?*
 > Corriger les petits details d'affichage
+> Être plus rapide sur les tâches répetitives et partager les connaisances
 
 ### Actions prises pour la prochaine itération
 *Quelles sont les actions décidées par l'équipe pour la prochaine itération ?*
-> Finaliser le projet
+> Continuer le partage de connaisance, les groupes de pair programming semble enfin efficace
 
 
 ### Axes d'améliorations 
 *Quels sont les axes d'améliorations pour les personnes qui ont tenu les rôles de PO, SM et Dev sur la précédente itération?*
-> PO : Doit définir plus précisement les tâches
-> SM : Améliorer la communication des tâches
+> PO : Doit définir plus précisement les tâches (en améliration)
+> SM : Améliorer la communication des tâches et eviter la spécialisation de chacun
 > Dev : Reussir a se synchroniser
 
 
